@@ -42,14 +42,10 @@ public class validateTitleTest extends base {
 		
 		System.out.println("I am chaning in gitDemo");
 		System.out.println("I am chaning in gitDemo1");
-<<<<<<< HEAD
+		System.out.println("changes by X");
+		System.out.println("changes by X");
+
 		System.out.println("I am changing after branching 1");
-		
-=======
-		System.out.println("changes by X");
-		System.out.println("changes by X");
->>>>>>> 47155a54edca706bd21ee50f6f902e951ea3af37
-		
 			}
 	
 	@AfterTest
