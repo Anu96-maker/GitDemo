@@ -1,0 +1,5 @@
+17:03:07.102 [main] INFO  resources.base - validate Image
+17:03:11.700 [main] INFO  resources.base - Open Browser
+17:03:13.910 [main] INFO  resources.base - Open URL
+17:03:21.205 [main] INFO  resources.base - NonRestricted
+17:03:34.179 [main] INFO  resources.base - Restricted
