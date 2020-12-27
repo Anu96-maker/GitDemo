@@ -40,6 +40,9 @@ public class validateTitleTest extends base {
 		Assert.assertEquals("Facebook helps you connect and share with the people in your lifes.", lp.title().getText());
 		log.info("validate title");
 		
+		System.out.println("I am chaning in gitDemo");
+		System.out.println("I am chaning in gitDemo1");
+		
 		
 			}
 	
